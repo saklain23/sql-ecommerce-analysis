@@ -105,7 +105,6 @@
 
 **Saklain Alam**
 
-- **Name:** Saklain Alam
 - **GitHub:** [@saklain23](https://github.com/saklain23)
 - **LinkedIn:** [saklain-alam-0342ab408](https://www.linkedin.com/in/saklain-alam-0342ab408)
 
